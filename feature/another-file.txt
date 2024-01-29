@@ -1,1 +1,3 @@
 Just another file in new-feature branch
+
+This file was modified localy
