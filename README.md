@@ -5,4 +5,4 @@ Changed manually
 
 Once again changed
 
-This file was modified locally
+This file was modified in VisualStudio
